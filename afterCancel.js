@@ -1,4 +1,4 @@
-import("lib_linkedFrame");
+﻿import("lib_linkedFrame");
 import("lib_frame");
 
 resetFrame();
@@ -8,3 +8,5 @@ a.imagevar("$image.validationIsRun", "");
 
 // Schliessen, Speichern, Aktualisieren von Superframe
 swreturn();
+
+//babu
