@@ -1,1 +1,1 @@
-# E100
+Just a boring file
